@@ -9,10 +9,8 @@ layout: default
 请注意，我们的人员有些会和系列中出现的人物同名，这是正常现象，无须担心。（说白了，那些人物其实是他们的自设）
 
 ## 伊利亚（Ilya）
-* 电子邮箱：ilya@lokova.org
-  （或）ilyayezelovsky@gmail.com
-  （或，不推荐）ilyayezelovsky@outlook.com
-* GitHub：[@IlyaYezelovsky](https://github.com/IlyaYezelovsky)
+* 电子邮箱：[ilya@lokova.org](mailto:ilya@lokova.org)
+* GitHub：[@IlyaTheSawmill](https://github.com/IlyaTheSawmill)
 * Discord：[@ilya_yezelovsky](https://discord.com/users/1216215110960283728)
 * X：[@ilya_sawmill](https://x.com/ilya_sawmill)
 * Bilibili：[@伊利亚锯木机](https://space.bilibili.com/3493084490893445)
@@ -20,4 +18,4 @@ layout: default
 最推荐的联系方式是电子邮箱。
 
 ## Luciorbus Forint
-* 电子邮箱：20080809tbr@gmail.com
+* 电子邮箱：[luciorbus@lokova.org](mailto:luciorbus@lokova.org)
