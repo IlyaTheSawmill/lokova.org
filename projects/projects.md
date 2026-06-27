@@ -6,4 +6,10 @@ permalink: /projects
 
 # 项目
 
-WIP
+## Lokova Metropolitan
+
+见[设定](/fic)。
+
+## OCWorkshop
+
+用于OC设定的命令行工具，见[GitHub](https://github.com/IlyaYezelovsky/OCWorkshop)。
