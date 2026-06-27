@@ -8,6 +8,10 @@ layout: default
 
 请注意，我们的人员有些会和系列中出现的人物同名，这是正常现象，无须担心。（说白了，那些人物其实是他们的自设）
 
+## Discord - Ilya's Basement
+
+Discord非正式交流服务器：https://discord.gg/P8jbmvef7W
+
 ## 伊利亚（Ilya）
 * 电子邮箱：[ilya@lokova.org](mailto:ilya@lokova.org)
 * GitHub：[@IlyaTheSawmill](https://github.com/IlyaTheSawmill)
