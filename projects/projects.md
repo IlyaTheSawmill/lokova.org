@@ -12,4 +12,4 @@ permalink: /projects
 
 ## OCWorkshop
 
-用于OC设定的命令行工具，见[GitHub](https://github.com/IlyaYezelovsky/OCWorkshop)。
+用于OC设定的命令行工具，见[GitHub](https://github.com/IlyaTheSawmill/OCWorkshop)。
