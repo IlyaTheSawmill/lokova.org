@@ -10,7 +10,7 @@ layout: default
 
 ## Discord - Ilya's Basement
 
-Discord非正式交流服务器：https://discord.gg/P8jbmvef7W
+Discord非正式交流服务器：[P8jbmvef7W](https://discord.gg/P8jbmvef7W)
 
 ## 伊利亚（Ilya）
 * 电子邮箱：[ilya@lokova.org](mailto:ilya@lokova.org)
