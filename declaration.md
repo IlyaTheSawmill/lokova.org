@@ -16,21 +16,21 @@ How you think, learn, create, and live is a matter of your own choices — lapto
 Here, thought is not restricted, paths are not fixed, and curiosity is never questioned.
 Freedom is the foundation of everything we build. 
 
-### Diversity as Reality, Respect as Baseline 
+### Diversity as Given, Respect as Baseline 
 We come from different parts of the world, speaking different languages, carrying different cultures.
 Differences are real, and so is disagreement — but respect is our baseline.
 Whether rivals in a game or partners in life, we reject hatred and prejudice, and choose understanding over division.
+
+### Equality by Design 
+In Lokova, gender, identity, and background do not define the value of a person.
+Everyone has equal rights to expression, competition, and growth.
+We oppose discrimination, reject stereotypes, and work toward a society where fairness is built into the system, making Lokova a home for all.
 
 ### Iteration Over Tradition
 We do not cling to old answers simply because they exist.
 There are no standard paths and no final solutions.
 In science, technology, arts, sports, and life itself, we explore, experiment, try and catch.
 Progress comes from those who dare to challenge what already exists.
-
-### Equality by Design 
-In Lokova, gender, identity, and background do not define the value of a person.
-Everyone has equal rights to expression, competition, and growth.
-We oppose discrimination, reject stereotypes, and work toward a society where fairness is built into the system, making Lokova a home for all.
 
 ### Gaming Spirit, Applied to Reality 
 Gaming is more than entertainment — it is how we understand systems.
@@ -41,6 +41,9 @@ In Lokova, we apply this mindset to reality: if the system is broken, we fix it;
 We are not waiting to be defined — we are defining the future together. Let’s build a world that truly belongs to us with an open heart, free thought, and creative passion!
 
 <div align="right">
-<p style="text-align: right; font-weight: bold;">All Lokova Residents<br>
-Thursday, January 1, Z32</p>
+<p style="text-align: right; font-weight: bold;">
+All Lokova Residents<br>
+Sunday, Septemeber 1, Z30<br>
+<i>Last updated on Saturday, June 27, Z32</i>
+</p>
 </div>
