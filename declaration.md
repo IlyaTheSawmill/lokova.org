@@ -12,7 +12,7 @@ Today, we, the residents of Lokova, speak for ourselves and declare:
 
 ### Freedom Above All, Individuality Blossoms
 In Lokova, everyone is an independent and unique individual.
-How you think, learn, create, and live is a matter of your own choices — laptop or tablet, Linux or Windows, dark or light mode...
+How you think, learn, create, and live is a matter of your own choices — laptop or tablet, Android or iOS, dark or light mode...
 Here, thought is not restricted, paths are not fixed, and curiosity is never questioned.
 Freedom is the foundation of everything we build. 
 
@@ -44,6 +44,6 @@ We are not waiting to be defined — we are defining the future together. Let’
 <p style="text-align: right; font-weight: bold;">
 All Lokova Residents<br>
 Sunday, Septemeber 1, Z30<br>
-<i>Last updated on Saturday, June 27, Z32</i>
+<i>Last updated on Sunday, June 28, Z32</i>
 </p>
 </div>
