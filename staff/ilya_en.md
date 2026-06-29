@@ -10,13 +10,13 @@ permalink: /staff/ilya/en
 
 ## Basic Information
 
-**Basic Name: **Ilya<br>
-**Nickname: **Sawmill<br>
-**Age: **Rising Grade 12 Student<br>
-**Timezone: **UTC+8, *planning to move to Osaka (UTC+9) in 5 years*<br>
-**MBTI: **ENTP<br>
-**Email: **[ilya@lokova.org](mailto:ilya@lokova.org)<br>
-**Social Accounts: **
+<b>Basic Name: </b>Ilya<br>
+<b>Nickname: </b>Sawmill<br>
+<b>Age: </b>Rising Grade 12 Student<br>
+<b>Timezone: </b>UTC+8, *planning to move to Osaka (UTC+9) in 5 years*<br>
+<b>MBTI: </b>ENTP<br>
+<b>Email: </b>[ilya@lokova.org](mailto:ilya@lokova.org)<br>
+<b>Social Accounts: </b>
 - GitHub: [@IlyaTheSawmill](https://github.com/IlyaTheSawmill)
 - Discord: [@ilya_yezelovsky](https://discord.com/users/1216215110960283728)
 - X: [@ilya_sawmill](https://x.com/ilya_sawmill)
@@ -91,11 +91,11 @@ Mainly Japanese railways, but also happy with Chinese railways.
 ## Landmines (i.e. Communities I Avoid)
 
 - **Celebrity fandoms: All of them! Every single one! No exception!** C-entertainment, K-pop, J-pop, Western celebrities, idol survival shows, solo stans, CP shippers, toxic fans... **Go away!** I don't follow or talk about celebrities, and don't recommend your idols to me, and definitely don't start fandom wars around me. **This is the biggest red flag. Violate it and be blocked immediately.**
-- **Mobile games: **No Tencent, no NetEase, and indifferent to others.
-- **Minecraft: **No vanilla purists.
-- **Galgame: **No depressing or story-heavy titles.
-- **Keybord politics: **Rational discussion is welcome. **Extremeists are not.**
-- **Miscellaneous: **I don't argue about programming language superiority. ~~Java is the best language.~~
+- <b>Mobile games: </b>No Tencent, no NetEase, and indifferent to others.
+- <b>Minecraft: </b>No vanilla purists.
+- <b>Galgame: </b>No depressing or story-heavy titles.
+- <b>Keybord politics: </b>Rational discussion is welcome. **Extremeists are not.**
+- <b>Miscellaneous: </b>I don't argue about programming language superiority. ~~Java is the best language.~~
 
 ## Bonus Points
 
