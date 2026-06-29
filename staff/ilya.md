@@ -8,11 +8,11 @@ permalink: /staff/ilya
 
 ## 基本信息
 
-**昵称**：伊利亚（Ilya）
-**年龄**：准高三
-**时区**：UTC+8
-**MBTI**：ENTP
-**电子邮箱：**[ilya@lokova.org](mailto:ilya@lokova.org)
+**昵称**：伊利亚（Ilya）<br>
+**年龄**：准高三<br>
+**时区**：UTC+8<br>
+**MBTI**：ENTP<br>
+**电子邮箱：**[ilya@lokova.org](mailto:ilya@lokova.org)<br>
 **社交账号：**
 - GitHub：[@IlyaTheSawmill](https://github.com/IlyaTheSawmill)
 - Discord：[@ilya_yezelovsky](https://discord.com/users/1216215110960283728)
@@ -43,13 +43,13 @@ Minecraft Wiki：[IlyaYezelovsky](https://zh.minecraft.wiki/w/User:IlyaYezelovsk
 
 #### Steam
 
-轻度玩家。**不玩3A**，只玩小型的、去中心化的作品，目前正在玩的是《Rusted Warfare》。
+轻度玩家。**不玩3A**，只玩小型的、去中心化的作品，目前正在玩的是Rusted Warfare。
 
 #### Galgame
 
 **前不久（2026年5月5日）才入坑，目前只玩过一部。**
 
-仅玩了SMEE的《Making＊Lovers》就成功地找到了自己喜爱的风格——纯爱狗粮、甜度拉满、日常搞笑（也就是废萌系）。
+仅玩了[SMEE](https://vndb.org/p328)的[Making＊Lovers](https://vndb.org/v21552)就成功地找到了自己喜爱的风格——纯爱狗粮、甜度拉满、日常搞笑（也就是废萌系）。
 
 后续也会尝试更多此类作品，并且**不打算碰致郁系**。
 
@@ -67,9 +67,9 @@ Minecraft Wiki：[IlyaYezelovsky](https://zh.minecraft.wiki/w/User:IlyaYezelovsk
 
 ### 影视
 
-#### 日漫（轻度）
+#### 日本动漫
 
-**不追番、不混粉圈、不看腐/百合，V圈勿扰。**只是偶尔发现自己可能感兴趣的番会去看一看。
+**轻度观看。不追番、不混粉圈、不看腐/百合，V圈勿扰。**只是偶尔发现自己可能感兴趣的番会去看一看。
 
 ### 创作
 
