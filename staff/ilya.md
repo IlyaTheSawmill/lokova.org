@@ -6,6 +6,8 @@ permalink: /staff/ilya
 
 # 伊利亚（上层叙事）·扩列帖
 
+**中文** | [English](/staff/ilya/en) | [日本語](/staff/ilya/ja)
+
 ## 基本信息
 
 **昵称**：伊利亚（Ilya）<br>
