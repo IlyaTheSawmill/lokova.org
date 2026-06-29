@@ -12,7 +12,7 @@ layout: default
 
 Discord非正式交流服务器：[P8jbmvef7W](https://discord.gg/P8jbmvef7W)
 
-## 伊利亚（Ilya）
+## [伊利亚（Ilya）](/staff/ilya)
 * 电子邮箱：[ilya@lokova.org](mailto:ilya@lokova.org)
 * GitHub：[@IlyaTheSawmill](https://github.com/IlyaTheSawmill)
 * Discord：[@ilya_yezelovsky](https://discord.com/users/1216215110960283728)
