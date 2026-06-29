@@ -136,9 +136,9 @@ input:focus, textarea:focus, select:focus {
 
 :root {
     --sans-font-family: "Noto Sans", "Noto Sans SC", sans-serif;
-    --sans-jp-font-family: "Noto Sans", "Noto Sans JP", "Noto Sans SC", sans-serif;
+    --sans-jp-font-family: "Noto Sans", "Noto Sans JP", sans-serif;
     --serif-font-family: "Liberation Serif", "Noto Serif SC", serif;
-    --serif-jp-font-family: "Liberation Serif", "Noto Serif JP", "Noto Serif SC", serif;
+    --serif-jp-font-family: "Liberation Serif", "Noto Serif JP", serif;
     --monospace-font-family: "Noto Sans Mono", "Unifont", monospace;
     --monospace-jp-font-family: "Noto Sans Mono", "Unifont-JP", monospace;
 }
@@ -162,7 +162,7 @@ input:focus, textarea:focus, select:focus {
 [lang="zh-HK"],
 [lang="zh-MO"],
 [lang="zh-Hant"] {
-    font-family: var(--sans-jp-font-family);
+    font-family: var(--sans-jp-font-family) !important;
 }
 
 /* 确保所有元素继承语言字体（除了特殊覆盖） */
@@ -172,7 +172,7 @@ input:focus, textarea:focus, select:focus {
 [lang="zh-HK"] *,
 [lang="zh-MO"] *,
 [lang="zh-Hant"] * {
-    font-family: inherit;
+    font-family: inherit !important;
 }
 
 /* ========== 代码块 - 使用属性选择器增强覆盖 ========== */
@@ -183,7 +183,7 @@ pre *, code *, tt *, kbd *, samp *,
 [class*="code"], [class*="Code"],
 [class*="mono"], [class*="Mono"],
 [class*="terminal"], [class*="Terminal"] {
-    font-family: var(--monospace-font-family) !important;
+    font-family: var(--monospace-font-family);
 }
 
 /* 语言特定代码块 - 使用更全面的选择器 */
@@ -263,7 +263,7 @@ article, blockquote, .blog-post, .post-content,
 article *, blockquote *, .blog-post *, .post-content *,
 .entry-content *, .story-body *,
 [role="article"] *, [role="main"] article * {
-    font-family: var(--serif-font-family) !important;
+    font-family: var(--serif-font-family);
 }
 
 /* 语言特定文章内容 */
@@ -332,7 +332,7 @@ article .monospace *, article .code *, article .highlight *, article .listing *,
 [role="article"] kbd *, [role="article"] samp *,
 [role="article"] .monospace *, [role="article"] .code *,
 [role="article"] .highlight *, [role="article"] .listing * {
-    font-family: var(--monospace-font-family) !important;
+    font-family: var(--monospace-font-family);
 }
 
 /* 语言特定 - 文章内的代码块 */
