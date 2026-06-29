@@ -10,7 +10,7 @@ permalink: /staff/ilya
 
 **昵称**：伊利亚（Ilya）<br>
 **年龄**：准高三<br>
-**时区**：UTC+8<br>
+**时区**：UTC+8，*计划五年后移居大阪（UTC+9）*<br>
 **MBTI**：ENTP<br>
 **电子邮箱：**[ilya@lokova.org](mailto:ilya@lokova.org)<br>
 **社交账号：**
@@ -107,3 +107,5 @@ Minecraft Wiki：[IlyaYezelovsky](https://zh.minecraft.wiki/w/User:IlyaYezelovsk
 - 能接住我抛的奇怪脑洞
 
 > **同好优先，婉拒负能量爆棚者和查户口式聊天选手。加之前先看看雷区，省得互相折磨。**
+
+**~最后更新于2026年6月29日（星期一）~**
