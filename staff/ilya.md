@@ -108,4 +108,4 @@ Minecraft Wiki：[IlyaYezelovsky](https://zh.minecraft.wiki/w/User:IlyaYezelovsk
 
 > **同好优先，婉拒负能量爆棚者和查户口式聊天选手。加之前先看看雷区，省得互相折磨。**
 
-**~最后更新于2026年6月29日（星期一）~**
+***最后更新于2026年6月29日（星期一）***
