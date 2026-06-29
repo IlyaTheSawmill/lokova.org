@@ -5,12 +5,6 @@
     --muted-color: #8b949e;
     --border-color: #30363d;
     --code-bg: #161b22;
-    --sans-font-family: "Noto Sans", "Noto Sans SC", sans-serif;
-    --sans-jp-font-family: "Noto Sans", "Noto Sans JP", "Noto Sans SC", sans-serif;
-    --serif-font-family: "Liberation Serif", "Noto Serif SC", serif;
-    --serif-jp-font-family: "Liberation Serif", "Noto Serif JP", "Noto Serif SC", serif;
-    --monospace-font-family: "Noto Sans Mono", monospace;
-    --monospace-jp-font-family: "Noto Sans Mono", monospace;
 }
 
 html, body {
@@ -140,94 +134,224 @@ input:focus, textarea:focus, select:focus {
   text-decoration: underline;
 }
 
-/* 基础字体设置 */
+:root {
+    --sans-font-family: "Noto Sans", "Noto Sans SC", sans-serif;
+    --sans-jp-font-family: "Noto Sans", "Noto Sans JP", "Noto Sans SC", sans-serif;
+    --serif-font-family: "Liberation Serif", "Noto Serif SC", serif;
+    --serif-jp-font-family: "Liberation Serif", "Noto Serif JP", "Noto Serif SC", serif;
+    --monospace-font-family: "Noto Sans Mono", "Unifont", monospace;
+    --monospace-jp-font-family: "Noto Sans Mono", "Unifont-JP", monospace;
+}
+
+/* ========== 基础字体设置 ========== */
 * {
     font-family: var(--sans-font-family);
 }
 
-/* 日语和繁体中文网站 - 使用更具体的选择器 */
-html[lang="ja"] *,
-html[lang="ja-JP"] *,
-html[lang="zh-TW"] *,
-html[lang="zh-HK"] *,
-html[lang="zh-MO"] *,
-html[lang="zh-Hant"] * {
+/* ========== 语言特定基础字体 ========== */
+/* 日语和繁体中文的全局覆盖 */
+:root:lang(ja),
+:root:lang(ja-JP),
+:root:lang(zh-TW),
+:root:lang(zh-HK),
+:root:lang(zh-MO),
+:root:lang(zh-Hant),
+[lang="ja"],
+[lang="ja-JP"],
+[lang="zh-TW"],
+[lang="zh-HK"],
+[lang="zh-MO"],
+[lang="zh-Hant"] {
     font-family: var(--sans-jp-font-family);
 }
 
-/* 代码块 - 使用 !important 确保覆盖 */
+/* 确保所有元素继承语言字体（除了特殊覆盖） */
+[lang="ja"] *,
+[lang="ja-JP"] *,
+[lang="zh-TW"] *,
+[lang="zh-HK"] *,
+[lang="zh-MO"] *,
+[lang="zh-Hant"] * {
+    font-family: inherit;
+}
+
+/* ========== 代码块 - 使用属性选择器增强覆盖 ========== */
 pre, code, tt, kbd, samp,
 .monospace, .code, .highlight, .listing,
 pre *, code *, tt *, kbd *, samp *,
-.monospace *, .code *, .highlight *, .listing * {
+.monospace *, .code *, .highlight *, .listing *,
+[class*="code"], [class*="Code"],
+[class*="mono"], [class*="Mono"],
+[class*="terminal"], [class*="Terminal"] {
     font-family: var(--monospace-font-family) !important;
 }
 
-/* 日语和繁体中文的代码块 */
-html[lang="ja"] pre,
-html[lang="ja"] code,
-html[lang="ja"] pre *,
-html[lang="ja"] code *,
-html[lang="ja-JP"] pre,
-html[lang="ja-JP"] code,
-html[lang="ja-JP"] pre *,
-html[lang="ja-JP"] code *,
-html[lang="zh-TW"] pre,
-html[lang="zh-TW"] code,
-html[lang="zh-TW"] pre *,
-html[lang="zh-TW"] code *,
-html[lang="zh-HK"] pre,
-html[lang="zh-HK"] code,
-html[lang="zh-HK"] pre *,
-html[lang="zh-HK"] code *,
-html[lang="zh-MO"] pre,
-html[lang="zh-MO"] code,
-html[lang="zh-MO"] pre *,
-html[lang="zh-MO"] code *,
-html[lang="zh-Hant"] pre,
-html[lang="zh-Hant"] code,
-html[lang="zh-Hant"] pre *,
-html[lang="zh-Hant"] code * {
+/* 语言特定代码块 - 使用更全面的选择器 */
+[lang="ja"] pre, [lang="ja"] code, [lang="ja"] tt,
+[lang="ja"] kbd, [lang="ja"] samp,
+[lang="ja"] .monospace, [lang="ja"] .code,
+[lang="ja"] .highlight, [lang="ja"] .listing,
+[lang="ja"] pre *, [lang="ja"] code *, [lang="ja"] tt *,
+[lang="ja"] kbd *, [lang="ja"] samp *,
+[lang="ja"] .monospace *, [lang="ja"] .code *,
+[lang="ja"] .highlight *, [lang="ja"] .listing *,
+[lang="ja"] [class*="code"], [lang="ja"] [class*="Code"],
+[lang="ja"] [class*="mono"], [lang="ja"] [class*="Mono"],
+[lang="ja"] [class*="terminal"], [lang="ja"] [class*="Terminal"],
+[lang="ja-JP"] pre, [lang="ja-JP"] code, [lang="ja-JP"] tt,
+[lang="ja-JP"] kbd, [lang="ja-JP"] samp,
+[lang="ja-JP"] .monospace, [lang="ja-JP"] .code,
+[lang="ja-JP"] .highlight, [lang="ja-JP"] .listing,
+[lang="ja-JP"] pre *, [lang="ja-JP"] code *, [lang="ja-JP"] tt *,
+[lang="ja-JP"] kbd *, [lang="ja-JP"] samp *,
+[lang="ja-JP"] .monospace *, [lang="ja-JP"] .code *,
+[lang="ja-JP"] .highlight *, [lang="ja-JP"] .listing *,
+[lang="ja-JP"] [class*="code"], [lang="ja-JP"] [class*="Code"],
+[lang="ja-JP"] [class*="mono"], [lang="ja-JP"] [class*="Mono"],
+[lang="ja-JP"] [class*="terminal"], [lang="ja-JP"] [class*="Terminal"],
+[lang="zh-TW"] pre, [lang="zh-TW"] code, [lang="zh-TW"] tt,
+[lang="zh-TW"] kbd, [lang="zh-TW"] samp,
+[lang="zh-TW"] .monospace, [lang="zh-TW"] .code,
+[lang="zh-TW"] .highlight, [lang="zh-TW"] .listing,
+[lang="zh-TW"] pre *, [lang="zh-TW"] code *, [lang="zh-TW"] tt *,
+[lang="zh-TW"] kbd *, [lang="zh-TW"] samp *,
+[lang="zh-TW"] .monospace *, [lang="zh-TW"] .code *,
+[lang="zh-TW"] .highlight *, [lang="zh-TW"] .listing *,
+[lang="zh-TW"] [class*="code"], [lang="zh-TW"] [class*="Code"],
+[lang="zh-TW"] [class*="mono"], [lang="zh-TW"] [class*="Mono"],
+[lang="zh-TW"] [class*="terminal"], [lang="zh-TW"] [class*="Terminal"],
+[lang="zh-HK"] pre, [lang="zh-HK"] code, [lang="zh-HK"] tt,
+[lang="zh-HK"] kbd, [lang="zh-HK"] samp,
+[lang="zh-HK"] .monospace, [lang="zh-HK"] .code,
+[lang="zh-HK"] .highlight, [lang="zh-HK"] .listing,
+[lang="zh-HK"] pre *, [lang="zh-HK"] code *, [lang="zh-HK"] tt *,
+[lang="zh-HK"] kbd *, [lang="zh-HK"] samp *,
+[lang="zh-HK"] .monospace *, [lang="zh-HK"] .code *,
+[lang="zh-HK"] .highlight *, [lang="zh-HK"] .listing *,
+[lang="zh-HK"] [class*="code"], [lang="zh-HK"] [class*="Code"],
+[lang="zh-HK"] [class*="mono"], [lang="zh-HK"] [class*="Mono"],
+[lang="zh-HK"] [class*="terminal"], [lang="zh-HK"] [class*="Terminal"],
+[lang="zh-MO"] pre, [lang="zh-MO"] code, [lang="zh-MO"] tt,
+[lang="zh-MO"] kbd, [lang="zh-MO"] samp,
+[lang="zh-MO"] .monospace, [lang="zh-MO"] .code,
+[lang="zh-MO"] .highlight, [lang="zh-MO"] .listing,
+[lang="zh-MO"] pre *, [lang="zh-MO"] code *, [lang="zh-MO"] tt *,
+[lang="zh-MO"] kbd *, [lang="zh-MO"] samp *,
+[lang="zh-MO"] .monospace *, [lang="zh-MO"] .code *,
+[lang="zh-MO"] .highlight *, [lang="zh-MO"] .listing *,
+[lang="zh-MO"] [class*="code"], [lang="zh-MO"] [class*="Code"],
+[lang="zh-MO"] [class*="mono"], [lang="zh-MO"] [class*="Mono"],
+[lang="zh-MO"] [class*="terminal"], [lang="zh-MO"] [class*="Terminal"],
+[lang="zh-Hant"] pre, [lang="zh-Hant"] code, [lang="zh-Hant"] tt,
+[lang="zh-Hant"] kbd, [lang="zh-Hant"] samp,
+[lang="zh-Hant"] .monospace, [lang="zh-Hant"] .code,
+[lang="zh-Hant"] .highlight, [lang="zh-Hant"] .listing,
+[lang="zh-Hant"] pre *, [lang="zh-Hant"] code *, [lang="zh-Hant"] tt *,
+[lang="zh-Hant"] kbd *, [lang="zh-Hant"] samp *,
+[lang="zh-Hant"] .monospace *, [lang="zh-Hant"] .code *,
+[lang="zh-Hant"] .highlight *, [lang="zh-Hant"] .listing *,
+[lang="zh-Hant"] [class*="code"], [lang="zh-Hant"] [class*="Code"],
+[lang="zh-Hant"] [class*="mono"], [lang="zh-Hant"] [class*="Mono"],
+[lang="zh-Hant"] [class*="terminal"], [lang="zh-Hant"] [class*="Terminal"] {
     font-family: var(--monospace-jp-font-family) !important;
 }
 
-/* 文章内容 */
+/* ========== 文章内容 ========== */
 article, blockquote, .blog-post, .post-content,
 .entry-content, .story-body,
+[role="article"], [role="main"] article,
 article *, blockquote *, .blog-post *, .post-content *,
-.entry-content *, .story-body * {
+.entry-content *, .story-body *,
+[role="article"] *, [role="main"] article * {
     font-family: var(--serif-font-family) !important;
 }
 
-/* 日语和繁体中文的文章内容 */
-html[lang="ja"] article,
-html[lang="ja"] article *,
-html[lang="ja"] .blog-post,
-html[lang="ja"] .blog-post *,
-html[lang="ja-JP"] article,
-html[lang="ja-JP"] article *,
-html[lang="ja-JP"] .blog-post,
-html[lang="ja-JP"] .blog-post *,
-html[lang="zh-TW"] article,
-html[lang="zh-TW"] article *,
-html[lang="zh-TW"] .blog-post,
-html[lang="zh-TW"] .blog-post *,
-html[lang="zh-HK"] article,
-html[lang="zh-HK"] article *,
-html[lang="zh-HK"] .blog-post,
-html[lang="zh-HK"] .blog-post *,
-html[lang="zh-MO"] article,
-html[lang="zh-MO"] article *,
-html[lang="zh-MO"] .blog-post,
-html[lang="zh-MO"] .blog-post *,
-html[lang="zh-Hant"] article,
-html[lang="zh-Hant"] article *,
-html[lang="zh-Hant"] .blog-post,
-html[lang="zh-Hant"] .blog-post * {
+/* 语言特定文章内容 */
+[lang="ja"] article, [lang="ja"] blockquote,
+[lang="ja"] .blog-post, [lang="ja"] .post-content,
+[lang="ja"] .entry-content, [lang="ja"] .story-body,
+[lang="ja"] [role="article"], [lang="ja"] [role="main"] article,
+[lang="ja"] article *, [lang="ja"] blockquote *,
+[lang="ja"] .blog-post *, [lang="ja"] .post-content *,
+[lang="ja"] .entry-content *, [lang="ja"] .story-body *,
+[lang="ja"] [role="article"] *, [lang="ja"] [role="main"] article *,
+[lang="ja-JP"] article, [lang="ja-JP"] blockquote,
+[lang="ja-JP"] .blog-post, [lang="ja-JP"] .post-content,
+[lang="ja-JP"] .entry-content, [lang="ja-JP"] .story-body,
+[lang="ja-JP"] [role="article"], [lang="ja-JP"] [role="main"] article,
+[lang="ja-JP"] article *, [lang="ja-JP"] blockquote *,
+[lang="ja-JP"] .blog-post *, [lang="ja-JP"] .post-content *,
+[lang="ja-JP"] .entry-content *, [lang="ja-JP"] .story-body *,
+[lang="ja-JP"] [role="article"] *, [lang="ja-JP"] [role="main"] article *,
+[lang="zh-TW"] article, [lang="zh-TW"] blockquote,
+[lang="zh-TW"] .blog-post, [lang="zh-TW"] .post-content,
+[lang="zh-TW"] .entry-content, [lang="zh-TW"] .story-body,
+[lang="zh-TW"] [role="article"], [lang="zh-TW"] [role="main"] article,
+[lang="zh-TW"] article *, [lang="zh-TW"] blockquote *,
+[lang="zh-TW"] .blog-post *, [lang="zh-TW"] .post-content *,
+[lang="zh-TW"] .entry-content *, [lang="zh-TW"] .story-body *,
+[lang="zh-TW"] [role="article"] *, [lang="zh-TW"] [role="main"] article *,
+[lang="zh-HK"] article, [lang="zh-HK"] blockquote,
+[lang="zh-HK"] .blog-post, [lang="zh-HK"] .post-content,
+[lang="zh-HK"] .entry-content, [lang="zh-HK"] .story-body,
+[lang="zh-HK"] [role="article"], [lang="zh-HK"] [role="main"] article,
+[lang="zh-HK"] article *, [lang="zh-HK"] blockquote *,
+[lang="zh-HK"] .blog-post *, [lang="zh-HK"] .post-content *,
+[lang="zh-HK"] .entry-content *, [lang="zh-HK"] .story-body *,
+[lang="zh-HK"] [role="article"] *, [lang="zh-HK"] [role="main"] article *,
+[lang="zh-MO"] article, [lang="zh-MO"] blockquote,
+[lang="zh-MO"] .blog-post, [lang="zh-MO"] .post-content,
+[lang="zh-MO"] .entry-content, [lang="zh-MO"] .story-body,
+[lang="zh-MO"] [role="article"], [lang="zh-MO"] [role="main"] article,
+[lang="zh-MO"] article *, [lang="zh-MO"] blockquote *,
+[lang="zh-MO"] .blog-post *, [lang="zh-MO"] .post-content *,
+[lang="zh-MO"] .entry-content *, [lang="zh-MO"] .story-body *,
+[lang="zh-MO"] [role="article"] *, [lang="zh-MO"] [role="main"] article *,
+[lang="zh-Hant"] article, [lang="zh-Hant"] blockquote,
+[lang="zh-Hant"] .blog-post, [lang="zh-Hant"] .post-content,
+[lang="zh-Hant"] .entry-content, [lang="zh-Hant"] .story-body,
+[lang="zh-Hant"] [role="article"], [lang="zh-Hant"] [role="main"] article,
+[lang="zh-Hant"] article *, [lang="zh-Hant"] blockquote *,
+[lang="zh-Hant"] .blog-post *, [lang="zh-Hant"] .post-content *,
+[lang="zh-Hant"] .entry-content *, [lang="zh-Hant"] .story-body *,
+[lang="zh-Hant"] [role="article"] *, [lang="zh-Hant"] [role="main"] article * {
     font-family: var(--serif-jp-font-family) !important;
 }
 
-/* 图标字体 - 使用正确的字体栈 */
+/* ========== 代码块中的内容不应被文章字体覆盖 ========== */
+/* 确保代码块内的所有内容保持代码字体，即使它在文章内 */
+article pre, article code, article tt, article kbd, article samp,
+article .monospace, article .code, article .highlight, article .listing,
+article pre *, article code *, article tt *, article kbd *, article samp *,
+article .monospace *, article .code *, article .highlight *, article .listing *,
+[role="article"] pre, [role="article"] code, [role="article"] tt,
+[role="article"] kbd, [role="article"] samp,
+[role="article"] .monospace, [role="article"] .code,
+[role="article"] .highlight, [role="article"] .listing,
+[role="article"] pre *, [role="article"] code *, [role="article"] tt *,
+[role="article"] kbd *, [role="article"] samp *,
+[role="article"] .monospace *, [role="article"] .code *,
+[role="article"] .highlight *, [role="article"] .listing * {
+    font-family: var(--monospace-font-family) !important;
+}
+
+/* 语言特定 - 文章内的代码块 */
+[lang="ja"] article pre, [lang="ja"] article code,
+[lang="ja"] article pre *, [lang="ja"] article code *,
+[lang="ja-JP"] article pre, [lang="ja-JP"] article code,
+[lang="ja-JP"] article pre *, [lang="ja-JP"] article code *,
+[lang="zh-TW"] article pre, [lang="zh-TW"] article code,
+[lang="zh-TW"] article pre *, [lang="zh-TW"] article code *,
+[lang="zh-HK"] article pre, [lang="zh-HK"] article code,
+[lang="zh-HK"] article pre *, [lang="zh-HK"] article code *,
+[lang="zh-MO"] article pre, [lang="zh-MO"] article code,
+[lang="zh-MO"] article pre *, [lang="zh-MO"] article code *,
+[lang="zh-Hant"] article pre, [lang="zh-Hant"] article code,
+[lang="zh-Hant"] article pre *, [lang="zh-Hant"] article code * {
+    font-family: var(--monospace-jp-font-family) !important;
+}
+
+/* ========== 图标字体 - 使用正确的字体栈 ========== */
 .fa, .fas, .far, .fal, .fab,
 .fa-solid, .fa-regular, .fa-light, .fa-thin, .fa-duotone,
 .material-icons, .material-icons-outlined,
@@ -238,10 +362,12 @@ html[lang="zh-Hant"] .blog-post * {
 [class*="icofont"], [class*="zmdi"],
 [class*="fa-"]::before,
 [class*="fa-"]::after {
-    font-family: "Font Awesome 6 Free", "Material Icons", "Segoe UI Symbol", "Symbols Nerd Font", sans-serif !important;
+    font-family: "Helvetica Neue", "Helvetica", "Font Awesome 6 Free", "Material Icons", "Segoe UI Symbol", "Symbols Nerd Font", sans-serif !important;
+    font-style: normal !important;
+    font-weight: normal !important;
 }
 
-/* 数学公式 - 保留数学字体 */
+/* ========== 数学公式 - 保留数学字体 ========== */
 [class*="math"]:not([class*="math-"]),
 [class*="latex"]:not([class*="latex-"]) {
     font-family: "KaTeX_Math", "Cambria Math", "Latin Modern Math", serif !important;
