@@ -6,14 +6,15 @@ permalink: /staff/ilya
 
 # 伊利亚（上层叙事）·扩列帖
 
-**中文** | [English](/staff/ilya/en) | [日本語](/staff/ilya/ja)
+**中文** | [English](/staff/ilya/en) | <span lang="ja">[日本語](/staff/ilya/ja)</span>
 
 ## 基本信息
 
-**昵称**：伊利亚（Ilya）<br>
-**年龄**：准高三<br>
-**时区**：UTC+8，*计划五年后移居大阪（UTC+9）*<br>
-**MBTI**：ENTP<br>
+**基本名称：**伊利亚（Ilya）<br>
+**外号：**锯木机（Sawmill）<br>
+**年龄：**准高三<br>
+**时区：**UTC+8，*计划五年后移居大阪（UTC+9）*<br>
+**MBTI：**ENTP<br>
 **电子邮箱：**[ilya@lokova.org](mailto:ilya@lokova.org)<br>
 **社交账号：**
 - GitHub：[@IlyaTheSawmill](https://github.com/IlyaTheSawmill)
@@ -35,7 +36,7 @@ permalink: /staff/ilya
 
 #### Minecraft
 
-重度玩家。只玩国际Java版（正版ID：[IlyaTheSawmill](https://mineatar.io/player/IlyaTheSawmill)），不玩基岩版或网易版。
+重度玩家。只玩国际Java版（正版ID：`[IlyaTheSawmill](https://mineatar.io/player/IlyaTheSawmill)`），不玩基岩版或网易版。
 
 主要方向：生存，生电，服务器开发，**不接受原版，必加作弊（X-ray类）**。
 
@@ -61,15 +62,15 @@ Minecraft Wiki：[IlyaYezelovsky](https://zh.minecraft.wiki/w/User:IlyaYezelovsk
 
 *玩MC学的（笑）*
 
-偶尔做一些小工具什么的（正在施工中：[OCWorkshop](https://github.com/IlyaTheSawmill/OCWorkshop)，一个用于辅助OC创作的工具。
+偶尔做一些小工具什么的。
+
+正在施工中：[OCWorkshop](https://github.com/IlyaTheSawmill/OCWorkshop)，一个用于辅助OC创作的工具。
 
 #### Minecraft服务器
 
 自己开一个插件生存服（[LokovaMC](https://mc.lokova.org/)，虽然**不常开**）。*无偿推广：[Leaves](https://leavesmc.org/)服务端赛高！*
 
-### 影视
-
-#### 日本动漫
+### 二次元
 
 **轻度观看。不追番、不混粉圈、不看腐/百合，V圈勿扰。**只是偶尔发现自己可能感兴趣的番会去看一看。
 
@@ -83,12 +84,12 @@ Minecraft Wiki：[IlyaYezelovsky](https://zh.minecraft.wiki/w/User:IlyaYezelovsk
 
 #### 铁道宅
 
-主要是日系铁道。国铁也能聊，但了解不多。*五年后计划迁到大阪*
+主要是日系铁道。国铁也能聊。
 
 ## 扩列须知
 
-- 日常打字党，熟人或MC联机时可开语音（[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)限定）。
-- 回复速度：看到必回，但不在电脑前时会很慢。电脑在线才是真在线，手机在线约等于不在线。
+- 日常打字党，联机时可开语音（[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)等），支持中英文。
+- 回复速度：看到必回，但不在电脑前时会很慢。**电脑在线才是真在线，手机在线约等于不在线。**
 - 加好友请备注来意，否则可能被忽略。
 
 ## 圈子避雷
