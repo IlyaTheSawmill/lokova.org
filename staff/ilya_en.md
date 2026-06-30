@@ -30,15 +30,15 @@ permalink: /staff/ilya/en
 
 International servers only, not mainland China servers; PC only, not mobile games.
 
-**Strongly dislike Tencent and NetEase games**; indifferent, didn't play, and have no specific feelings towards other mobile games (e.g. *Genshin Impact*, *Honkai: Star Rail*, *Arknights* and *Wuthering Waves*).
+**Strongly dislike Tencent and NetEase games**; not interested in but don't dislike other mobile games (e.g. *Genshin Impact*, *Honkai: Star Rail*, *Arknights* and *Wuthering Waves*).
 
-#### Minecraft
+#### *Minecraft*
 
-Heavy player. International Java Edition only (playername: `[IlyaTheSawmill](https://mineatar.io/player/IlyaTheSawmill)`); not Bedrock Edition or NetEase Edition.
+Heavy player. International Java Edition only (playername: [`IlyaTheSawmill`](https://mineatar.io/player/IlyaTheSawmill)); not Bedrock Edition or NetEase Edition.
 
-Main focus: Survival, technical Minecraft, server development, **Vanilla is not accepted, and client-side cheat mods are requires (X-ray, etc.)**.
+Main focus: Survival, technical *Minecraft*, server development, **Vanilla is not accepted, and client-side cheat mods are requires (X-ray, etc.)**.
 
-Minecraft Wiki (Chinese): [IlyaYezelovsky](https://zh.minecraft.wiki/w/User:IlyaYezelovsky)
+Visit my user page on Chinese *Minecraft* Wiki if you want to know more about my *Minecraft* style: [IlyaYezelovsky](https://zh.minecraft.wiki/w/User:IlyaYezelovsky)
 
 Started playing on May 18, 2019.
 
@@ -50,9 +50,9 @@ Light player. **Don't play AAA games**; small, decentralized titles only. Curren
 
 **Started not long ago (on May 5, 2026), and only completed 1 title so far.**
 
-Found my preferred style - pure love story, maximum sweetness, slice-of-life comedy (i.e. **moege**) just by playing [Making＊Lovers](https://vndb.org/v21552) by [SMEE](https://vndb.org/p328).
+Found my preferred style - pure love story, maximum sweetness, slice-of-life comedy (i.e. **moege**) just by playing [*Making＊Lovers*](https://vndb.org/v21552) by [SMEE](https://vndb.org/p328).
 
-Going to try more titles in this genre, and **not to touch depressing ones**.
+Now going to try more titles in this genre, and **not to touch depressing ones**.
 
 ### Technology
 
@@ -62,11 +62,11 @@ Going to try more titles in this genre, and **not to touch depressing ones**.
 
 Occasionally make small tools.
 
-Currently WIP: [OCWorkshop](https://github.com/IlyaTheSawmill/OCWorkshop), a tool for assisting OC (original character) creation.
+Currently WIP: [*OCWorkshop*](https://github.com/IlyaTheSawmill/OCWorkshop), a tool for assisting OC (original character) creation.
 
 #### Minecraft Servers
 
-Running my own plugin-based survival server [LokovaMC](https://mc.lokova.org/) *page in Chinese*, although it's **not online so often**). *Ad: [Leaves](https://leavesmc.org/) server software is awesome!*
+Running my own plugin-based survival server [LokovaMC](https://mc.lokova.org/), although it's **not online so often**). *Ad: [Leaves](https://leavesmc.org/) server software is awesome!*
 
 ### Anime
 
@@ -74,7 +74,7 @@ Running my own plugin-based survival server [LokovaMC](https://mc.lokova.org/) *
 
 ### Creation
 
-My original worldbuilding project [Lokova](https://www.lokova.org/) ([Introduction](https://www.lokova.org/fic)) *pages all in Chinese*, about a city inhabited exclusively by Gen Zers.
+My original worldbuilding project is [*Lokova*](https://www.lokova.org/) ([Introduction](https://www.lokova.org/fic)), about a city inhabited exclusively by Gen Zers.
 
 You're welcome to find bugs or offer ideas. Thoughtful feedback after reading earns bonus points.
 
@@ -84,7 +84,7 @@ Mainly Japanese railways, but also happy with Chinese railways.
 
 ## Before Adding Me
 
-- Mainly communitate by text. Voice is only available in both Chinese and English during multiplayer (via [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat), etc.).
+- Mainly communitate by text. Voice is only available in both Chinese and English during multiplayer (via [*Simple Voice Chat*](https://modrinth.com/plugin/simple-voice-chat), etc.).
 - Reply speed: If I see your message, then I reply. However, it'll be quite slow when I'm away from my computer. **Online on PC means online, and online on phone means offline.**
 - Please tell me why you're adding me when sending a friend request to me.
 
@@ -92,18 +92,18 @@ Mainly Japanese railways, but also happy with Chinese railways.
 
 - **Celebrity fandoms: All of them! Every single one! No exception!** C-entertainment, K-pop, J-pop, Western celebrities, idol survival shows, solo stans, CP shippers, toxic fans... **Go away!** I don't follow or talk about celebrities, and don't recommend your idols to me, and definitely don't start fandom wars around me. **This is the biggest red flag. Violate it and be blocked immediately.**
 - <b>Mobile games: </b>No Tencent, no NetEase, and indifferent to others.
-- <b>Minecraft: </b>No vanilla purists.
+- <b>*Minecraft*: </b>No vanilla purists.
 - <b>Galgame: </b>No depressing or story-heavy titles.
+- <b>Technical: </b>I don't argue about programming language superiority. ~~Java is the best language.~~
 - <b>Keybord politics: </b>Rational discussion is welcome. **Extremeists are not.**
-- <b>Miscellaneous: </b>I don't argue about programming language superiority. ~~Java is the best language.~~
 
 ## Bonus Points
 
-- You also play Minecraft Java Edition (plugins / mods / technical Minecraft / self-hosted servers)
+- You also play *Minecraft* Java Edition (plugins / mods / technical Minecraft / self-hosted servers)
 - You're willing to read my worldbuilding and give thoughtful feedback
 - You also like trains
 - You can keep up with the weird ideas I throw out
 
 > **People with shared interests are preferred. Decline people who constantly spread negativity or treat conversations like interrogations. Read the Landmines section before adding me, so that neither of us has to waste our time.**
 
-***Last updated on June 29, 2026 (Monday)***
+***Last updated on June 30, 2026 (Tuesday)***

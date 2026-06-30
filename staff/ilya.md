@@ -32,15 +32,15 @@ permalink: /staff/ilya
 
 只玩PC，不玩手游。
 
-**雷腾讯、网易手游**，其余（*原神·崩铁·方舟·鸣潮等*）无感，也没玩过。
+**雷腾讯、网易手游**，其余（*原神·崩铁·方舟·鸣潮等*）无感但不排斥，也没玩过。
 
 #### Minecraft
 
-重度玩家。只玩国际Java版（正版ID：`[IlyaTheSawmill](https://mineatar.io/player/IlyaTheSawmill)`），不玩基岩版或网易版。
+重度玩家。只玩国际Java版（正版ID：[`IlyaTheSawmill`](https://mineatar.io/player/IlyaTheSawmill)），不玩基岩版或网易版。
 
 主要方向：生存，生电，服务器开发，**不接受原版，必加作弊（X-ray类）**。
 
-Minecraft Wiki：[IlyaYezelovsky](https://zh.minecraft.wiki/w/User:IlyaYezelovsky)
+如果想要了解具体的游戏风格，可查看我在中文Minecraft Wiki上的用户页：[IlyaYezelovsky](https://zh.minecraft.wiki/w/User:IlyaYezelovsky)
 
 2019年5月18日入坑。
 
@@ -80,9 +80,7 @@ Minecraft Wiki：[IlyaYezelovsky](https://zh.minecraft.wiki/w/User:IlyaYezelovsk
 
 欢迎来挑bug或提供灵感，看完愿意认真吐槽的加分。
 
-### 其他
-
-#### 铁道宅
+### 铁道宅
 
 主要是日系铁道。国铁也能聊。
 
@@ -92,15 +90,15 @@ Minecraft Wiki：[IlyaYezelovsky](https://zh.minecraft.wiki/w/User:IlyaYezelovsk
 - 回复速度：看到必回，但不在电脑前时会很慢。**电脑在线才是真在线，手机在线约等于不在线。**
 - 加好友请备注来意，否则可能被忽略。
 
-## 圈子避雷
+## 雷区
 
 - **饭圈追星：一切！任何！所有！** 内娱、韩娱、日娱、欧美圈、秀粉、唯粉、CP粉、毒唯……**全部绕道**。不追星，不聊星，别给我安利你哥哥/姐姐，更别在我这儿打架。**此乃第一雷区，触者秒拉黑。**
-- **手游：**如前所述，**雷腾讯、网易手游**，其余（*原神·崩铁·方舟·鸣潮等*）无感，也没玩过。
-- **MC：**如前所述，**不接受原版，必加作弊（X-ray类）**，那些原版原教旨主义者就别来了。
-- **二次元：**如前所述，**不追番、不混粉圈、不看腐/百合，V圈勿扰。**只是偶尔发现自己可能感兴趣的番会去看一看。
+- **手游：禁腾讯禁网易。**其他无感。
+- **MC：**那些原版原教旨主义者就别来了。
+- **二次元：**不追番、不混粉圈、不看腐/百合，V圈勿扰。
 - **Galgame：**废萌系专精，那些喜欢致郁系剧情向的就别来了。
-- **键政：**欢迎理性讨论，**拒绝魔怔人**。
-- **杂项：**不聊编程语言优劣，~~Java天下第一不接受反驳~~。
+- **技术：**不聊编程语言优劣，~~Java天下第一不接受反驳。~~
+- **键政：**欢迎理性讨论，**拒绝魔怔人。**
 
 ## 加分项
 
@@ -111,4 +109,4 @@ Minecraft Wiki：[IlyaYezelovsky](https://zh.minecraft.wiki/w/User:IlyaYezelovsk
 
 > **同好优先，婉拒负能量爆棚者和查户口式聊天选手。加之前先看看雷区，省得互相折磨。**
 
-***最后更新于2026年6月29日（星期一）***
+***最后更新于2026年6月30日（星期二）***

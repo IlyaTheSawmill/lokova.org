@@ -7,7 +7,7 @@ lang: ja
 
 # イリア（上位物語）・プロフィールカード
 
-<span lang="zh">[中文](/staff/ilya)</span> | [English](/staff/ilya/en) | **日本語**
+<span lang="zh" style="font-family: 'Noto Sans SC'">[中文](/staff/ilya)</span> | [English](/staff/ilya/en) | **日本語**
 
 ## 基本情報
 
@@ -34,15 +34,15 @@ lang: ja
 
 PCゲームしか遊ばない。スマホゲームはやらない。
 
-**Tencent・NetEaseのスマホゲームは地雷。**それ以外（*原神、崩壊：スターレイル、アークナイツ、鳴潮など*）は関心しない。プレイしたこともない。
+**Tencent・NetEaseのスマホゲームは地雷。**それ以外（*原神、崩壊：スターレイル、アークナイツ、鳴潮など*）は好きでも嫌いでもない。プレイしたこともない。
 
 #### Minecraft
 
-ガチ勢。Java版（国際版）のみプレイ（プレイヤー名：`[IlyaTheSawmill](https://mineatar.io/player/IlyaTheSawmill)`）。Bedrock版・NetEase版はやらない。
+ガチ勢。Java版（国際版）のみプレイ（プレイヤー名：[`IlyaTheSawmill`](https://mineatar.io/player/IlyaTheSawmill)）。Bedrock版・NetEase版はやらない。
 
 主なプレイスタイル：サバイバル、レッドストーン、自鯖開発。**バニラは受け付けない。X-ray系チート必須。**
 
-Minecraft Wiki（中国語）：[IlyaYezelovsky](https://zh.minecraft.wiki/w/User:IlyaYezelovsky)
+Minecraftスタイルについてもっと知りたい場合は、中国語版Minecraft Wikiの私のユーザーページを見ることができる：[IlyaYezelovsky](https://zh.minecraft.wiki/w/User:IlyaYezelovsky)
 
 2019年5月18日にMinecraftを始めた。
 
@@ -84,9 +84,7 @@ Minecraft Wiki（中国語）：[IlyaYezelovsky](https://zh.minecraft.wiki/w/Use
 
 設定の矛盾探しやアイデア提供は大歓迎。ちゃんと読んだうえでツッコんでくれる人は特に歓迎。
 
-### その他
-
-#### 鉄オタ
+### 鉄オタ
 
 主に日本の鉄道。中国の鉄道の話もできる。
 
@@ -99,12 +97,12 @@ Minecraft Wiki（中国語）：[IlyaYezelovsky](https://zh.minecraft.wiki/w/Use
 ## 地雷
 
 * **推し活・アイドル界隈：全部。何もかも。例外なし。** 中国・韓国・日本・欧米問わず、箱推し・単推し・CP厨・過激派……**全部お断り。**芸能人は追わないし、語らない。推しの布教もしないでほしいし、ここで揉めるのもNG。**最大の地雷。踏んだら即ブロック。**
-* **スマホゲーム：**前述の通り、**Tencent・NetEaseのスマホゲームは地雷。**それ以外（*原神・崩壊：スターレイル・アークナイツ・鳴潮など*）は関心しない。プレイ経験もない。
-* **Minecraft：**前述の通り、**バニラは受け付けない。X-ray系チート必須。**バニラ原理主義の人は合わないと思う。
-* **二次元：**前述の通り、**アニメは追わない・ファンダムに入らない・BL・百合は見ない・V界隈お断り。**気になる作品だけたまに見る。
-* **Galgame：**萌えゲー特化。鬱ゲー・シナリオ重視派とは合わないと思う。
+* **スマホゲーム：Tencent・NetEaseのスマホゲームは地雷。**その他に気にしない。
+* **Minecraft：**バニラ原理主義の人は合わないと思う。
+* **アニメ：**アニメは追わない、ファンダムに入らない、BL・百合は見ない、V界隈お断り。
+* **ギャルゲー：**萌えゲー特化。鬱ゲー・シナリオ重視派とは合わないと思う。
+* **技術：**プログラミング言語論争はしない。~~Java最強、異論は認めない。~~
 * **キーボード政治：**理性的な議論は歓迎。**過激な人はお断り。**
-* **その他：**プログラミング言語論争はしない。~~Java最強、異論は認めない。~~
 
 ## 加点ポイント
 
@@ -113,6 +111,6 @@ Minecraft Wiki（中国語）：[IlyaYezelovsky](https://zh.minecraft.wiki/w/Use
 * 日本の鉄道が好き
 * 自分の変な発想に付き合える
 
-> **趣味が合う人優先。ネガティブすぎる人や、尋問みたいな会話をする人はご遠慮ください。追加する前に地雷だけ確認してお互い平和に。**
+> **趣味が合う人優先。ネガティブすぎる人や、尋問みたいな会話をする人は不似合い。追加する前に地雷を確認してお互い平和に。**
 
-***最終更新：2026年6月29日（月）***
+***最終更新：2026年6月30日（火）***
