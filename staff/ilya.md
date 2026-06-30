@@ -6,7 +6,7 @@ permalink: /staff/ilya
 
 # 伊利亚（上层叙事）·扩列帖
 
-**中文** | [English](/staff/ilya/en) | <span lang="ja">[日本語](/staff/ilya/ja)</span>
+**中文** | [English](/staff/ilya/en) | <span lang="ja" style="font-family: 'Noto Sans JP'">[日本語](/staff/ilya/ja)</span>
 
 ## 基本信息
 

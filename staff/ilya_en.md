@@ -2,11 +2,12 @@
 title: Ilya (Upper Narrative)
 layout: default
 permalink: /staff/ilya/en
+lang: en
 ---
 
 # Ilya (Upper Narrative) · Friend Finder Post
 
-[中文](/staff/ilya) | **English** | <span lang="ja">[日本語](/staff/ilya/ja)</span>
+[中文](/staff/ilya) | **English** | <span lang="ja" style="font-family: 'Noto Sans JP'">[日本語](/staff/ilya/ja)</span>
 
 ## Basic Information
 
