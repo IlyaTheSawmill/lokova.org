@@ -1,6 +1,7 @@
 ---
 title: 部分人物（待定）
 layout: default
+permalink: /inactive/char
 ---
 
 # 部分人物（待定）
