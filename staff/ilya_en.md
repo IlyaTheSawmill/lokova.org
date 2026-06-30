@@ -93,7 +93,8 @@ Mainly Japanese railways, but also happy with Chinese railways.
 
 - **Celebrity fandoms: All of them! Every single one! No exception!** C-entertainment, K-pop, J-pop, Western celebrities, idol survival shows, solo stans, CP shippers, toxic fans... **Go away!** I don't follow or talk about celebrities, and don't recommend your idols to me, and definitely don't start fandom wars around me. **This is the biggest red flag. Violate it and be blocked immediately.**
 - <b>Mobile games: </b>No Tencent, no NetEase, and indifferent to others.
-- <b>*Minecraft*: </b>No vanilla purists.
+- <b><i>Minecraft</i>: </b>No vanilla purists.
+- <b>Anime: I'm casual only!</b> I don't follow seasonal anime, don't particapate in fandoms, don't watch BL/GL/GB (BG only), and VTuber fans please don't add me.
 - <b>Galgame: </b>No depressing or story-heavy titles.
 - <b>Technical: </b>I don't argue about programming language superiority. ~~Java is the best language.~~
 - <b>Keybord politics: </b>Rational discussion is welcome. **Extremeists are not.**
