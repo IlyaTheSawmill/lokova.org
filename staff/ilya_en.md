@@ -13,14 +13,13 @@ lang: en
 
 <b>Basic Name: </b>Ilya<br>
 <b>Nickname: </b>Sawmill<br>
-<b>Age: </b>Rising Grade 12 Student<br>
+<b>Age: </b>Grade 12 Student<br>
 <b>Timezone: </b>UTC+8, *planning to move to Osaka (UTC+9) in 5 years*<br>
 <b>MBTI: </b>ENTP<br>
 <b>Email: </b>[ilya@lokova.org](mailto:ilya@lokova.org)<br>
 <b>Social Accounts: </b>
 - GitHub: [@IlyaTheSawmill](https://github.com/IlyaTheSawmill)
 - Discord: [@ilya_yezelovsky](https://discord.com/users/1216215110960283728)
-- X: [@ilya_sawmill](https://x.com/ilya_sawmill)
 - Bilibili: [@伊利亚锯木机](https://space.bilibili.com/3493084490893445)
 - QQ: 1026491165
 - Steam: [@ilya_yezelovsky](https://steamcommunity.com/id/ilya_yezelovsky/)

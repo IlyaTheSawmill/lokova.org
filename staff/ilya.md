@@ -12,14 +12,13 @@ permalink: /staff/ilya
 
 **基本名称：**伊利亚（Ilya）<br>
 **外号：**锯木机（Sawmill）<br>
-**年龄：**准高三<br>
+**年龄：**高三<br>
 **时区：**UTC+8，*计划五年后移居大阪（UTC+9）*<br>
 **MBTI：**ENTP<br>
 **电子邮箱：**[ilya@lokova.org](mailto:ilya@lokova.org)<br>
 **社交账号：**
 - GitHub：[@IlyaTheSawmill](https://github.com/IlyaTheSawmill)
 - Discord：[@ilya_yezelovsky](https://discord.com/users/1216215110960283728)
-- X：[@ilya_sawmill](https://x.com/ilya_sawmill)
 - Bilibili：[@伊利亚锯木机](https://space.bilibili.com/3493084490893445)
 - QQ：1026491165
 - Steam：[@ilya_yezelovsky](https://steamcommunity.com/id/ilya_yezelovsky/)

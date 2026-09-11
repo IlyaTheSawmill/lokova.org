@@ -13,7 +13,7 @@ lang: ja
 
 **名前：**イリア（Ilya）<br>
 **あだ名：**ソーミル（Sawmill）<br>
-**学年：**高校3年生予定<br>
+**学年：**高校3年生<br>
 **タイムゾーン：**UTC+8、*5年後に大阪（UTC+9）へ移住予定*<br>
 **MBTI：**ENTP<br>
 **メールアドレス：**[ilya@lokova.org](mailto:ilya@lokova.org)<br>
@@ -21,7 +21,6 @@ lang: ja
 
 * GitHub：[@IlyaTheSawmill](https://github.com/IlyaTheSawmill)
 * Discord：[@ilya_yezelovsky](https://discord.com/users/1216215110960283728)
-* X：[@ilya_sawmill](https://x.com/ilya_sawmill)
 * Bilibili：[@伊利亚锯木机](https://space.bilibili.com/3493084490893445)
 * QQ：1026491165
 * Steam：[@ilya_yezelovsky](https://steamcommunity.com/id/ilya_yezelovsky/)

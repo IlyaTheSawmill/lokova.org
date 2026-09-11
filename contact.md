@@ -16,7 +16,6 @@ Discord非正式交流服务器：[P8jbmvef7W](https://discord.gg/P8jbmvef7W)
 * 电子邮箱：[ilya@lokova.org](mailto:ilya@lokova.org)
 * GitHub：[@IlyaTheSawmill](https://github.com/IlyaTheSawmill)
 * Discord：[@ilya_yezelovsky](https://discord.com/users/1216215110960283728)
-* X：[@ilya_sawmill](https://x.com/ilya_sawmill)
 * Bilibili：[@伊利亚锯木机](https://space.bilibili.com/3493084490893445)
 
 最推荐的联系方式是电子邮箱。
