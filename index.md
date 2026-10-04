@@ -25,3 +25,7 @@ show-title: false
 **是堆砌，还是掩埋？**
 
 **如果你决定堆砌，那么，欢迎来到洛科瓦。**
+
+[查看介绍](/fic/main)
+
+[官方Discord群组](https://discord.gg/YYeH8v63AZ)
