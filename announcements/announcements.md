@@ -7,7 +7,10 @@ permalink: /announcements
 # 公告
 
 **2026/10/04 (Sun)**
+
 洛科瓦官方Discord群组已启用，欢迎来玩！邀请链接：https://discord.gg/YYeH8v63AZ
+
+----
 
 **2026/06/27 (Sat)**
 
