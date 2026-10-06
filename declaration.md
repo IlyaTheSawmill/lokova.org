@@ -39,6 +39,6 @@ We are not waiting to be defined — we are defining the future together. Let’
 <p style="text-align: right; font-weight: bold;">
 All Lokova Residents<br>
 Sunday, Septemeber 1, Z30<br>
-<i>Last updated on Sunday, June 28, Z32</i>
+<i>Last updated on Tuesday, October 6, Z32</i>
 </p>
 </div>
