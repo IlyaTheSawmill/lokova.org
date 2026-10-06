@@ -32,11 +32,6 @@ There are no standard paths and no final solutions.
 In science, technology, arts, sports, and life itself, we explore, experiment, try and catch.
 Progress comes from those who dare to challenge what already exists.
 
-### Gaming Spirit, Applied to Reality 
-Gaming is more than entertainment — it is how we understand systems.
-We construct and deconstruct rules, solve problems, cooperate, compete fairly, and improve what does not work and what works incorrectly.
-In Lokova, we apply this mindset to reality: if the system is broken, we fix it; if the system is not good enough, we mod it.
-
 ## We are Generation Z, We are Lokova!
 We are not waiting to be defined — we are defining the future together. Let’s build a world that truly belongs to us with an open heart, free thought, and creative passion!
 
