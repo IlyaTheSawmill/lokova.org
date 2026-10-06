@@ -8,6 +8,8 @@ layout: default
 
 请注意，我们的人员有些会和系列中出现的人物同名，这是正常现象，无须担心。（说白了，那些人物其实是他们的自设）
 
+[查看公钥](/publickey)
+
 ## Discord - Lokova
 
 洛科瓦官方Discord服务器：[YYeH8v63AZ](https://discord.gg/P8jbmvef7W)
