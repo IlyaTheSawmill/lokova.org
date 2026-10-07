@@ -6,6 +6,12 @@ permalink: /announcements
 
 # 公告
 
+**2026/10/07 (Wed)**
+
+重新启用了Giscus评论区。
+
+----
+
 **2026/10/04 (Sun)**
 
 洛科瓦官方Discord群组已启用，欢迎来玩！邀请码：[YYeH8v63AZ](https://discord.gg/P8jbmvef7W)
