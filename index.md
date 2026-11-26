@@ -4,6 +4,12 @@ title: "Home"
 show-title: false
 ---
 
+<div class="alert-info">
+**洛科瓦支持[No Chat Reports](https://modrinth.com/mod/no-chat-reports)模组。**<br>
+**Minecraft总有一天会死在它的<u>非去中心化</u>上。**<br>
+**抵制聊天举报，去你妈的Icrosoft[^1]！**<br>
+</div>
+
 > 这个世界是一座巨大的垃圾场。  
 > 若有人于其中失去生的希望，他的尸骨便与垃圾一同腐烂；  
 > 有人却能用从中回收的材料，堆砌成一座城市。
@@ -29,3 +35,5 @@ show-title: false
 [查看介绍](/fic/main)
 
 [官方Discord群组](https://discord.gg/YYeH8v63AZ)
+
+[^1]: 没有M
