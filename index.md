@@ -4,10 +4,10 @@ title: "Home"
 show-title: false
 ---
 
-<div class="alert-info">
-**洛科瓦支持[No Chat Reports](https://modrinth.com/mod/no-chat-reports)模组。**<br>
-**Minecraft总有一天会死在它的<u>非去中心化</u>上。**<br>
-**抵制聊天举报，去你妈的Icrosoft[^1]！**<br>
+<div class="alert-warning">
+<b>洛科瓦支持[No Chat Reports](https://modrinth.com/mod/no-chat-reports)模组。</b><br>
+<b>Minecraft总有一天会死在它的<u>非去中心化</u>上。</b><br>
+<b>抵制聊天举报，去你妈的Icrosoft<span style="font-size: 0.8em;">没有M</span>，去你妈的Ojng<span style="font-size: 0.8em;">没有Ma</span>！</b><br>
 </div>
 
 > 这个世界是一座巨大的垃圾场。  
